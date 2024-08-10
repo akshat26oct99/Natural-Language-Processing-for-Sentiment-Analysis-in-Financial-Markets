@@ -1,0 +1,10 @@
+streamlit
+tweepy
+requests
+beautifulsoup4
+scikit-learn
+bs4
+pandas
+datasets
+nltk
+matplotlib
