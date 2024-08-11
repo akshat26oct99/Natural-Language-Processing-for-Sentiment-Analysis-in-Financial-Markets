@@ -1,4 +1,4 @@
-# Financial News Categorization and Sentiment Analysis using NLP
+# Natural Language Processing for Sentiment Analysis in Financial Markets
 
 This project aims to categorize and analyze the sentiment of financial news articles and tweets using Natural Language Processing (NLP) techniques. It involves training models to classify financial news into predefined categories and assess the sentiment of the text.
 
